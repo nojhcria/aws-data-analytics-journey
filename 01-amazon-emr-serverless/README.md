@@ -164,12 +164,6 @@ Permissões adicionadas:
 
 Também foi configurada a Trust Policy utilizando:
 
-Conta AWS:
-
-```text
-060954228940
-```
-
 Região:
 
 ```text

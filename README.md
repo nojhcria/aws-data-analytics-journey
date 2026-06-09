@@ -1,2 +1,13 @@
 # aws-data-analytics-journey
-Minha jornada prática em AWS, Análise de Dados e Engenharia de Dados.
+
+01 - Amazon EMR Serverless
+Status: Concluído
+
+02 - Amazon EMR EC2
+Status: Em andamento
+
+03 - AWS Glue
+Status: Não iniciado
+
+04 - Amazon Athena
+Status: Não iniciado
